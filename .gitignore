@@ -42,19 +42,6 @@ env/
 Thumbs.db
 desktop.ini
 
-# ============================================
-# Generated / Processed Data
-# ============================================
-
-data/processed/*
-!data/processed/.gitkeep
-
-# ============================================
-# Generated Reports
-# ============================================
-
-reports/*.csv
-reports/*.json
 
 # ============================================
 # Power BI temporary files

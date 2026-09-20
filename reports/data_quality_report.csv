@@ -1,0 +1,28 @@
+category,check_name,severity,issues,status,description
+Business Rules,Leads missing initial Lead stage,CRITICAL,0,PASS,Every lead should begin with a Lead event.
+Business Rules,Multiple initial Lead events,CRITICAL,0,PASS,Each lead should have only one initial Lead event.
+Business Rules,Unknown funnel stages,CRITICAL,0,PASS,"Allowed stages are: ['Customer', 'Lead', 'Lost', 'MQL', 'SQL']."
+Completeness,Missing values in event fields,CRITICAL,0,PASS,Required event fields should not contain missing values.
+Completeness,Missing values in lead fields,CRITICAL,0,PASS,Required lead fields should not contain missing values.
+Dates,Events before lead creation,CRITICAL,0,PASS,A funnel event cannot occur before lead creation.
+Dates,Invalid funnel event dates,CRITICAL,0,PASS,stage_date must contain valid dates.
+Dates,Invalid lead creation dates,CRITICAL,0,PASS,created_date must contain valid dates.
+Funnel Logic,Duplicate stage events per lead,CRITICAL,0,PASS,A lead should reach each funnel stage at most once in this dataset.
+Funnel Logic,Leads marked both Customer and Lost,CRITICAL,0,PASS,Customer and Lost are mutually exclusive outcomes.
+Funnel Logic,Leads without terminal outcome,CRITICAL,0,PASS,Each lead should end as either Customer or Lost.
+Funnel Logic,Missing prerequisite funnel stages,CRITICAL,0,PASS,"MQL requires Lead, SQL requires Lead + MQL, and Customer requires Lead + MQL + SQL."
+Funnel Logic,Multiple terminal events,CRITICAL,0,PASS,A lead should have one terminal event.
+Funnel Logic,Out-of-order funnel stages,CRITICAL,0,PASS,Successful stages must progress Lead → MQL → SQL → Customer.
+Keys,Duplicate lead IDs,CRITICAL,0,PASS,lead_id must uniquely identify a lead.
+Numeric,Negative acquisition cost,CRITICAL,0,PASS,Acquisition cost cannot be negative.
+Numeric,Negative revenue,CRITICAL,0,PASS,Revenue cannot be negative.
+Relationships,Leads without funnel events,CRITICAL,0,PASS,Every lead should have at least one funnel event.
+Relationships,Orphan funnel events,CRITICAL,0,PASS,Every event must belong to an existing lead.
+Revenue,Customers without positive revenue,CRITICAL,0,PASS,Customer conversion events should contain positive revenue.
+Revenue,Non-customer events with revenue,CRITICAL,0,PASS,Revenue should only be recorded on Customer events.
+Schema,Missing required event columns,CRITICAL,0,PASS,All required columns must exist in lead_stage_events.csv.
+Schema,Missing required lead columns,CRITICAL,0,PASS,All required columns must exist in leads.csv.
+Duplicates,Duplicate event rows,WARNING,0,PASS,Exact duplicate event rows should be investigated.
+Duplicates,Duplicate lead rows,WARNING,0,PASS,Exact duplicate rows should be investigated.
+Schema,Unexpected event columns,WARNING,0,PASS,Unexpected columns should be reviewed before ingestion.
+Schema,Unexpected lead columns,WARNING,0,PASS,Unexpected columns should be reviewed before ingestion.
