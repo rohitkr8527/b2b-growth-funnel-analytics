@@ -1,0 +1,501 @@
+lead_id,created_date,channel,campaign,region,company_size,industry,acquisition_cost
+L00001,2025-03-25,Webinar,Finance Automation Webinar,US,Enterprise,Healthcare,38.15
+L00002,2025-06-11,Email,Product Update,US,Enterprise,Healthcare,26.38
+L00003,2025-04-10,Organic Search,SEO Evergreen,US,SMB,Retail,12.34
+L00004,2025-06-02,Organic Search,Blog CTA,US,SMB,Logistics,11.88
+L00005,2025-04-29,Referral,Customer Referral,UK,Mid-Market,Healthcare,9.08
+L00006,2025-01-15,Organic Search,Comparison Pages,Canada,Enterprise,Retail,5.97
+L00007,2025-04-09,Webinar,Finance Automation Webinar,UK,SMB,Manufacturing,53.46
+L00008,2025-05-10,Referral,Partner Referral,US,Mid-Market,Logistics,14.82
+L00009,2025-04-17,Webinar,Finance Automation Webinar,US,Mid-Market,Healthcare,56.54
+L00010,2025-05-02,Organic Search,SEO Evergreen,UK,SMB,SaaS,5.52
+L00011,2025-01-07,Email,Nurture Flow,UK,SMB,Retail,24.93
+L00012,2025-03-10,Google Ads,Competitor Terms,Canada,SMB,Retail,69.9
+L00013,2025-05-05,Referral,Customer Referral,US,Mid-Market,Healthcare,6.35
+L00014,2025-01-22,Email,Reactivation,US,Enterprise,Manufacturing,14.24
+L00015,2025-04-13,LinkedIn,ABM Decision Makers,UK,Mid-Market,SaaS,79.85
+L00016,2025-03-24,Organic Search,Comparison Pages,UK,Mid-Market,SaaS,12.06
+L00017,2025-06-17,Organic Search,Blog CTA,US,Mid-Market,SaaS,7.54
+L00018,2025-06-18,Organic Search,Comparison Pages,UK,SMB,Healthcare,4.74
+L00019,2025-05-31,Organic Search,Blog CTA,US,Mid-Market,Healthcare,9.33
+L00020,2025-02-02,LinkedIn,Finance Leaders,Canada,Mid-Market,SaaS,64.23
+L00021,2025-06-29,Referral,Partner Referral,US,Mid-Market,Retail,16.05
+L00022,2025-05-17,Google Ads,Search Campaign,US,SMB,Manufacturing,91.85
+L00023,2025-03-07,Webinar,Finance Automation Webinar,US,Mid-Market,Healthcare,27.03
+L00024,2025-01-19,Google Ads,Search Campaign,Canada,SMB,Retail,91.17
+L00025,2025-06-18,LinkedIn,Ops Leaders,Canada,SMB,Healthcare,74.82
+L00026,2025-03-26,LinkedIn,Finance Leaders,UK,SMB,Retail,95.05
+L00027,2025-02-27,Email,Nurture Flow,US,SMB,SaaS,19.59
+L00028,2025-03-16,Referral,Customer Referral,UK,Enterprise,Retail,11.29
+L00029,2025-04-23,Referral,Partner Referral,US,Enterprise,Finance,10.79
+L00030,2025-03-08,LinkedIn,ABM Decision Makers,UK,SMB,SaaS,90.71
+L00031,2025-04-10,LinkedIn,Finance Leaders,UK,SMB,SaaS,101.84
+L00032,2025-02-01,Google Ads,Brand Campaign,Canada,SMB,Healthcare,74.57
+L00033,2025-02-05,Email,Nurture Flow,US,Mid-Market,Manufacturing,20.95
+L00034,2025-01-06,Organic Search,SEO Evergreen,US,Mid-Market,Manufacturing,8.61
+L00035,2025-03-01,Google Ads,Competitor Terms,UK,Mid-Market,Logistics,84.8
+L00036,2025-02-24,Webinar,Workflow Optimization Session,US,SMB,Logistics,49.54
+L00037,2025-01-30,Organic Search,Blog CTA,US,Mid-Market,Logistics,7.92
+L00038,2025-03-22,Webinar,Workflow Optimization Session,US,Mid-Market,Logistics,39.16
+L00039,2025-05-23,Referral,Customer Referral,Canada,Mid-Market,Healthcare,11.35
+L00040,2025-02-28,Organic Search,Blog CTA,US,Mid-Market,SaaS,6.97
+L00041,2025-05-06,LinkedIn,Ops Leaders,US,SMB,Manufacturing,93.86
+L00042,2025-05-06,Organic Search,Comparison Pages,US,Mid-Market,SaaS,8.07
+L00043,2025-04-30,Referral,Customer Referral,US,SMB,Finance,6.57
+L00044,2025-01-30,Organic Search,Blog CTA,US,Enterprise,SaaS,3.18
+L00045,2025-05-23,LinkedIn,Ops Leaders,UK,Mid-Market,Logistics,73.05
+L00046,2025-01-08,Webinar,Workflow Optimization Session,Canada,SMB,Manufacturing,30.83
+L00047,2025-03-21,Organic Search,SEO Evergreen,Canada,Mid-Market,Finance,9.52
+L00048,2025-01-07,Referral,Customer Referral,US,SMB,SaaS,11.31
+L00049,2025-06-04,LinkedIn,Ops Leaders,US,Mid-Market,Manufacturing,87.91
+L00050,2025-01-10,Email,Product Update,US,Enterprise,Healthcare,10.1
+L00051,2025-05-10,LinkedIn,Ops Leaders,US,Enterprise,Finance,126.98
+L00052,2025-01-01,Referral,Partner Referral,Canada,Mid-Market,SaaS,10.89
+L00053,2025-04-15,Organic Search,Comparison Pages,US,Enterprise,Logistics,3.49
+L00054,2025-05-16,Email,Product Update,Canada,Enterprise,SaaS,10.07
+L00055,2025-03-23,Organic Search,SEO Evergreen,UK,SMB,SaaS,13.54
+L00056,2025-06-10,Organic Search,SEO Evergreen,US,Mid-Market,Logistics,13.22
+L00057,2025-05-26,Organic Search,Comparison Pages,Canada,SMB,Logistics,13.4
+L00058,2025-05-05,Referral,Customer Referral,US,Mid-Market,Manufacturing,10.61
+L00059,2025-05-11,Email,Reactivation,UK,SMB,SaaS,18.13
+L00060,2025-04-13,Email,Product Update,US,SMB,Logistics,23.12
+L00061,2025-01-24,Organic Search,Comparison Pages,US,SMB,SaaS,5.63
+L00062,2025-02-03,Email,Product Update,US,Mid-Market,Healthcare,11.49
+L00063,2025-05-30,Referral,Customer Referral,Canada,Enterprise,Retail,13.89
+L00064,2025-02-12,LinkedIn,ABM Decision Makers,UK,SMB,Logistics,70.87
+L00065,2025-06-18,Referral,Partner Referral,UK,Mid-Market,Manufacturing,12.07
+L00066,2025-05-03,Webinar,Finance Automation Webinar,US,Enterprise,Logistics,42.22
+L00067,2025-04-18,Email,Reactivation,US,Mid-Market,Logistics,24.41
+L00068,2025-01-30,Organic Search,SEO Evergreen,Canada,SMB,Healthcare,3.31
+L00069,2025-03-03,LinkedIn,Finance Leaders,Canada,Mid-Market,SaaS,67.55
+L00070,2025-02-17,Email,Nurture Flow,US,Mid-Market,Finance,20.48
+L00071,2025-03-25,Email,Product Update,US,SMB,Manufacturing,16.1
+L00072,2025-05-31,LinkedIn,Ops Leaders,US,Mid-Market,Logistics,62.41
+L00073,2025-03-26,Webinar,Finance Automation Webinar,US,Enterprise,Healthcare,27
+L00074,2025-05-21,Referral,Partner Referral,US,Enterprise,Finance,19.68
+L00075,2025-05-06,Referral,Customer Referral,UK,Mid-Market,Logistics,13.4
+L00076,2025-06-19,Google Ads,Search Campaign,UK,Mid-Market,Manufacturing,55.43
+L00077,2025-04-23,Email,Reactivation,US,Mid-Market,Logistics,22.73
+L00078,2025-02-15,Google Ads,Brand Campaign,US,SMB,Logistics,83.84
+L00079,2025-01-06,Organic Search,SEO Evergreen,Canada,SMB,Manufacturing,5.79
+L00080,2025-05-03,LinkedIn,ABM Decision Makers,US,Mid-Market,Finance,61.34
+L00081,2025-04-30,Email,Reactivation,US,SMB,SaaS,27.83
+L00082,2025-04-13,LinkedIn,ABM Decision Makers,Canada,Mid-Market,Healthcare,100.58
+L00083,2025-03-16,Organic Search,Comparison Pages,US,SMB,Logistics,8.13
+L00084,2025-06-26,Webinar,Finance Automation Webinar,Canada,Mid-Market,Healthcare,65.33
+L00085,2025-01-21,Google Ads,Brand Campaign,US,Mid-Market,SaaS,88.3
+L00086,2025-02-06,Organic Search,Blog CTA,UK,SMB,Logistics,6.9
+L00087,2025-04-18,Referral,Customer Referral,Canada,Mid-Market,SaaS,19.59
+L00088,2025-01-27,Email,Nurture Flow,US,SMB,Healthcare,28.51
+L00089,2025-06-10,Google Ads,Competitor Terms,UK,SMB,Manufacturing,50.79
+L00090,2025-02-27,LinkedIn,Finance Leaders,US,SMB,Healthcare,69.41
+L00091,2025-04-12,Webinar,Workflow Optimization Session,US,SMB,Logistics,31.76
+L00092,2025-01-22,LinkedIn,Ops Leaders,US,Mid-Market,Logistics,81.02
+L00093,2025-02-21,LinkedIn,ABM Decision Makers,Canada,SMB,Finance,121.41
+L00094,2025-04-21,Email,Reactivation,US,Enterprise,Healthcare,12.05
+L00095,2025-02-27,Email,Product Update,US,Mid-Market,Logistics,13.49
+L00096,2025-02-19,Organic Search,Blog CTA,US,Enterprise,Logistics,11.06
+L00097,2025-05-25,Email,Nurture Flow,Canada,SMB,Manufacturing,29.59
+L00098,2025-04-06,Email,Reactivation,Canada,SMB,Logistics,22.56
+L00099,2025-01-08,LinkedIn,Ops Leaders,UK,Enterprise,Retail,60.64
+L00100,2025-01-29,Referral,Customer Referral,US,Mid-Market,Healthcare,7.37
+L00101,2025-01-09,LinkedIn,ABM Decision Makers,US,Mid-Market,Healthcare,83.63
+L00102,2025-06-16,Referral,Customer Referral,US,SMB,Healthcare,7.7
+L00103,2025-06-12,Organic Search,Blog CTA,US,Enterprise,Healthcare,4.52
+L00104,2025-03-02,Organic Search,Comparison Pages,Canada,Enterprise,SaaS,13.93
+L00105,2025-04-14,Email,Product Update,UK,Enterprise,SaaS,18.03
+L00106,2025-04-06,Organic Search,Blog CTA,UK,Mid-Market,SaaS,12.3
+L00107,2025-06-06,Referral,Customer Referral,US,Mid-Market,SaaS,17.14
+L00108,2025-01-16,Organic Search,SEO Evergreen,US,SMB,SaaS,7.47
+L00109,2025-01-01,Google Ads,Search Campaign,US,SMB,Logistics,66.52
+L00110,2025-05-20,Webinar,Workflow Optimization Session,US,Mid-Market,Retail,39.8
+L00111,2025-02-01,LinkedIn,ABM Decision Makers,Canada,Mid-Market,Healthcare,117.95
+L00112,2025-06-28,Organic Search,Comparison Pages,US,Enterprise,Finance,5.03
+L00113,2025-06-24,LinkedIn,Finance Leaders,Canada,Mid-Market,Retail,98.75
+L00114,2025-01-08,Organic Search,Blog CTA,Canada,Mid-Market,Healthcare,10.31
+L00115,2025-04-16,Organic Search,SEO Evergreen,UK,SMB,Finance,7.93
+L00116,2025-03-29,LinkedIn,Ops Leaders,Canada,SMB,Retail,89.31
+L00117,2025-06-25,LinkedIn,ABM Decision Makers,US,SMB,SaaS,121.41
+L00118,2025-02-06,Referral,Partner Referral,US,SMB,Healthcare,6.59
+L00119,2025-04-23,Referral,Customer Referral,Canada,SMB,Logistics,8.48
+L00120,2025-05-13,Organic Search,Comparison Pages,US,Mid-Market,SaaS,8.01
+L00121,2025-01-31,Webinar,Workflow Optimization Session,UK,SMB,Logistics,57.06
+L00122,2025-01-20,Email,Product Update,US,SMB,Healthcare,21.21
+L00123,2025-03-27,Organic Search,SEO Evergreen,Canada,Mid-Market,Healthcare,3.55
+L00124,2025-06-24,Referral,Customer Referral,Canada,SMB,Finance,11.38
+L00125,2025-04-25,Referral,Customer Referral,Canada,Enterprise,Healthcare,7.99
+L00126,2025-04-29,LinkedIn,Finance Leaders,US,Mid-Market,Healthcare,129.42
+L00127,2025-02-04,Organic Search,Blog CTA,US,SMB,Logistics,6.14
+L00128,2025-02-11,Organic Search,Blog CTA,US,Mid-Market,Retail,5.06
+L00129,2025-05-04,Google Ads,Brand Campaign,UK,Mid-Market,SaaS,62.78
+L00130,2025-02-10,Google Ads,Search Campaign,US,Enterprise,Healthcare,65.95
+L00131,2025-05-07,Google Ads,Brand Campaign,Canada,SMB,Healthcare,75.91
+L00132,2025-01-09,Organic Search,SEO Evergreen,UK,Mid-Market,Healthcare,9.95
+L00133,2025-01-10,Email,Product Update,US,SMB,Finance,17.44
+L00134,2025-01-28,Organic Search,Comparison Pages,US,Enterprise,Logistics,13.61
+L00135,2025-04-24,Google Ads,Brand Campaign,US,Mid-Market,Logistics,56.31
+L00136,2025-01-17,Organic Search,Comparison Pages,Canada,Enterprise,Healthcare,6.69
+L00137,2025-06-25,Referral,Customer Referral,US,Enterprise,SaaS,15.57
+L00138,2025-05-30,Organic Search,SEO Evergreen,US,SMB,Retail,10.62
+L00139,2025-05-12,Google Ads,Brand Campaign,US,SMB,Retail,48.11
+L00140,2025-01-20,Organic Search,SEO Evergreen,Canada,Mid-Market,Manufacturing,9.95
+L00141,2025-04-13,Referral,Partner Referral,US,Enterprise,Retail,8.11
+L00142,2025-03-20,Referral,Customer Referral,US,Enterprise,Finance,8.87
+L00143,2025-01-12,LinkedIn,Ops Leaders,US,Enterprise,Logistics,117.29
+L00144,2025-06-07,LinkedIn,ABM Decision Makers,US,SMB,Manufacturing,101.83
+L00145,2025-03-06,Webinar,Finance Automation Webinar,US,Enterprise,SaaS,59.76
+L00146,2025-02-21,Email,Nurture Flow,Canada,Mid-Market,Logistics,8.17
+L00147,2025-02-12,Webinar,Workflow Optimization Session,UK,Mid-Market,Retail,68.83
+L00148,2025-04-25,Email,Product Update,US,Mid-Market,Manufacturing,11.48
+L00149,2025-02-05,Webinar,Finance Automation Webinar,US,Enterprise,Manufacturing,43.73
+L00150,2025-05-15,Organic Search,Comparison Pages,UK,SMB,Manufacturing,8.01
+L00151,2025-04-06,Email,Product Update,US,SMB,Finance,28.75
+L00152,2025-02-28,LinkedIn,Finance Leaders,US,SMB,SaaS,108.75
+L00153,2025-02-24,Referral,Customer Referral,Canada,SMB,Healthcare,11.88
+L00154,2025-04-05,Organic Search,SEO Evergreen,UK,Mid-Market,Retail,4.29
+L00155,2025-03-08,Organic Search,Comparison Pages,US,Mid-Market,SaaS,8.61
+L00156,2025-03-12,Webinar,Workflow Optimization Session,Canada,Mid-Market,SaaS,41.28
+L00157,2025-01-11,LinkedIn,Ops Leaders,UK,Enterprise,SaaS,83.98
+L00158,2025-05-18,Referral,Partner Referral,US,Mid-Market,Finance,19.45
+L00159,2025-03-15,Organic Search,SEO Evergreen,Canada,SMB,Finance,9.59
+L00160,2025-04-12,Webinar,Workflow Optimization Session,US,Mid-Market,Logistics,43.39
+L00161,2025-01-24,Organic Search,Blog CTA,US,SMB,SaaS,13.22
+L00162,2025-02-04,Google Ads,Brand Campaign,US,SMB,Manufacturing,83.59
+L00163,2025-01-28,Google Ads,Competitor Terms,US,Mid-Market,SaaS,56.68
+L00164,2025-01-26,Email,Reactivation,US,SMB,Manufacturing,27.92
+L00165,2025-02-06,Google Ads,Brand Campaign,US,Mid-Market,Finance,67.74
+L00166,2025-04-16,Webinar,Workflow Optimization Session,US,SMB,SaaS,36.84
+L00167,2025-04-25,Google Ads,Search Campaign,US,Enterprise,Manufacturing,91.25
+L00168,2025-06-12,Referral,Partner Referral,UK,Mid-Market,Finance,19.25
+L00169,2025-02-22,Google Ads,Competitor Terms,US,SMB,Healthcare,65.27
+L00170,2025-06-29,Webinar,Finance Automation Webinar,UK,Enterprise,Retail,28.46
+L00171,2025-06-07,Referral,Customer Referral,UK,SMB,Finance,9.02
+L00172,2025-04-05,Email,Product Update,UK,Mid-Market,Finance,18.39
+L00173,2025-03-11,Referral,Partner Referral,US,Enterprise,SaaS,5.51
+L00174,2025-02-07,Email,Reactivation,US,Mid-Market,Finance,11.15
+L00175,2025-04-21,LinkedIn,Ops Leaders,UK,Mid-Market,Logistics,64.82
+L00176,2025-03-15,Google Ads,Competitor Terms,Canada,Mid-Market,Logistics,48.16
+L00177,2025-03-04,Referral,Customer Referral,US,Mid-Market,Finance,12.05
+L00178,2025-02-24,LinkedIn,ABM Decision Makers,US,Mid-Market,Finance,107.61
+L00179,2025-02-17,Google Ads,Search Campaign,US,SMB,Logistics,79.09
+L00180,2025-04-21,Google Ads,Competitor Terms,Canada,SMB,Finance,74.63
+L00181,2025-01-23,Referral,Customer Referral,Canada,Enterprise,Healthcare,5.11
+L00182,2025-03-19,LinkedIn,Finance Leaders,US,SMB,Finance,61.97
+L00183,2025-05-04,Webinar,Workflow Optimization Session,US,Mid-Market,Retail,65.99
+L00184,2025-01-08,Google Ads,Competitor Terms,US,SMB,Manufacturing,77.19
+L00185,2025-05-04,Email,Product Update,US,SMB,Healthcare,14.5
+L00186,2025-05-27,Email,Reactivation,US,SMB,SaaS,22.45
+L00187,2025-01-04,Referral,Customer Referral,US,Mid-Market,Healthcare,15.95
+L00188,2025-05-11,LinkedIn,Finance Leaders,Canada,Mid-Market,Healthcare,121.2
+L00189,2025-05-22,Email,Nurture Flow,US,SMB,Healthcare,11.93
+L00190,2025-02-14,LinkedIn,ABM Decision Makers,US,Mid-Market,Healthcare,60.86
+L00191,2025-01-05,LinkedIn,Ops Leaders,Canada,SMB,Manufacturing,85.58
+L00192,2025-06-29,Google Ads,Competitor Terms,Canada,Mid-Market,Manufacturing,73.01
+L00193,2025-02-15,Referral,Customer Referral,Canada,Mid-Market,Finance,9.9
+L00194,2025-02-11,LinkedIn,ABM Decision Makers,US,Enterprise,Retail,113.6
+L00195,2025-03-10,Email,Reactivation,US,Mid-Market,Manufacturing,26.15
+L00196,2025-06-14,Google Ads,Search Campaign,US,Mid-Market,Retail,101.79
+L00197,2025-01-01,Webinar,Finance Automation Webinar,Canada,Mid-Market,Finance,65.79
+L00198,2025-06-29,LinkedIn,Ops Leaders,US,SMB,Retail,75.82
+L00199,2025-04-13,Organic Search,Blog CTA,US,SMB,Finance,9.75
+L00200,2025-02-07,Organic Search,Comparison Pages,US,Mid-Market,Finance,7.49
+L00201,2025-04-06,Email,Nurture Flow,UK,Enterprise,Finance,17.24
+L00202,2025-03-15,Referral,Partner Referral,Canada,Enterprise,Finance,6.03
+L00203,2025-04-20,Google Ads,Competitor Terms,Canada,Mid-Market,SaaS,69.44
+L00204,2025-06-30,Organic Search,SEO Evergreen,Canada,SMB,SaaS,4.14
+L00205,2025-01-29,Email,Nurture Flow,Canada,Enterprise,Logistics,20.84
+L00206,2025-02-27,Email,Nurture Flow,US,SMB,Retail,23.92
+L00207,2025-03-21,Google Ads,Brand Campaign,US,SMB,Logistics,72.41
+L00208,2025-03-30,Google Ads,Search Campaign,US,Mid-Market,Manufacturing,57.96
+L00209,2025-02-11,Referral,Customer Referral,Canada,SMB,Healthcare,16.33
+L00210,2025-02-22,LinkedIn,Ops Leaders,US,Enterprise,Logistics,83.71
+L00211,2025-06-09,LinkedIn,ABM Decision Makers,US,Mid-Market,Finance,120.64
+L00212,2025-02-27,LinkedIn,Ops Leaders,US,SMB,Retail,105.62
+L00213,2025-04-25,Referral,Partner Referral,Canada,Enterprise,Manufacturing,7.78
+L00214,2025-01-26,Webinar,Workflow Optimization Session,US,Enterprise,Retail,61.99
+L00215,2025-04-21,Google Ads,Brand Campaign,US,SMB,Logistics,95.65
+L00216,2025-02-24,Google Ads,Search Campaign,US,SMB,Logistics,91.92
+L00217,2025-03-07,Email,Reactivation,UK,SMB,Retail,11.26
+L00218,2025-03-08,Google Ads,Brand Campaign,Canada,SMB,Finance,88.23
+L00219,2025-01-30,Referral,Partner Referral,UK,Enterprise,SaaS,6.92
+L00220,2025-01-27,Google Ads,Competitor Terms,US,SMB,Healthcare,90.86
+L00221,2025-06-06,Organic Search,Blog CTA,US,Mid-Market,SaaS,14.2
+L00222,2025-04-09,Google Ads,Competitor Terms,UK,Mid-Market,Manufacturing,91
+L00223,2025-03-15,Google Ads,Brand Campaign,US,Mid-Market,Finance,51.71
+L00224,2025-03-04,Google Ads,Competitor Terms,Canada,Enterprise,Retail,47.78
+L00225,2025-01-13,Google Ads,Brand Campaign,US,Enterprise,Healthcare,104.01
+L00226,2025-03-03,Referral,Customer Referral,Canada,SMB,Manufacturing,15.81
+L00227,2025-03-06,Email,Reactivation,US,SMB,Manufacturing,11.96
+L00228,2025-04-01,Email,Product Update,Canada,SMB,Logistics,22.52
+L00229,2025-03-01,Google Ads,Search Campaign,UK,Mid-Market,Healthcare,75.38
+L00230,2025-01-14,Organic Search,Comparison Pages,US,SMB,SaaS,11.36
+L00231,2025-05-03,Webinar,Workflow Optimization Session,Canada,SMB,Retail,56.06
+L00232,2025-02-13,LinkedIn,Finance Leaders,US,Enterprise,Manufacturing,122.15
+L00233,2025-04-09,Email,Product Update,US,SMB,SaaS,24.77
+L00234,2025-01-22,Webinar,Finance Automation Webinar,US,Enterprise,Finance,58.14
+L00235,2025-06-06,Email,Reactivation,US,Mid-Market,Healthcare,10.08
+L00236,2025-06-03,Referral,Customer Referral,US,SMB,Healthcare,18.62
+L00237,2025-02-12,Google Ads,Search Campaign,Canada,SMB,SaaS,47.49
+L00238,2025-05-29,Email,Reactivation,UK,SMB,Manufacturing,20.92
+L00239,2025-02-14,Webinar,Finance Automation Webinar,US,Mid-Market,Retail,54
+L00240,2025-06-22,Organic Search,SEO Evergreen,UK,Mid-Market,Finance,12.9
+L00241,2025-03-04,Google Ads,Competitor Terms,US,Mid-Market,SaaS,95.37
+L00242,2025-05-24,Email,Nurture Flow,US,Mid-Market,Logistics,14.65
+L00243,2025-05-20,Google Ads,Search Campaign,UK,Mid-Market,Finance,86.93
+L00244,2025-04-27,LinkedIn,Ops Leaders,US,SMB,Healthcare,112.16
+L00245,2025-02-11,Email,Product Update,Canada,SMB,Retail,28.55
+L00246,2025-06-05,Webinar,Finance Automation Webinar,US,Mid-Market,SaaS,43.87
+L00247,2025-04-01,Google Ads,Search Campaign,US,SMB,Manufacturing,85.65
+L00248,2025-02-05,Email,Nurture Flow,US,Mid-Market,Retail,9.09
+L00249,2025-03-23,Google Ads,Brand Campaign,US,SMB,Manufacturing,61.64
+L00250,2025-02-05,Email,Reactivation,US,SMB,SaaS,8.08
+L00251,2025-02-19,Webinar,Workflow Optimization Session,US,SMB,SaaS,31.84
+L00252,2025-06-08,Google Ads,Brand Campaign,US,Enterprise,Logistics,93.74
+L00253,2025-01-12,Webinar,Finance Automation Webinar,US,SMB,Healthcare,62.36
+L00254,2025-04-13,LinkedIn,Ops Leaders,US,Mid-Market,Retail,79.99
+L00255,2025-04-18,Email,Reactivation,US,Mid-Market,Healthcare,10.68
+L00256,2025-01-04,Google Ads,Competitor Terms,US,Mid-Market,SaaS,96.97
+L00257,2025-01-20,LinkedIn,ABM Decision Makers,Canada,SMB,Finance,109
+L00258,2025-01-27,Google Ads,Brand Campaign,US,Mid-Market,Finance,46.82
+L00259,2025-02-17,Referral,Partner Referral,US,SMB,Logistics,17.55
+L00260,2025-06-23,Referral,Customer Referral,US,Mid-Market,SaaS,15.83
+L00261,2025-01-16,Email,Product Update,US,Enterprise,Healthcare,23.79
+L00262,2025-04-17,Organic Search,Comparison Pages,Canada,SMB,Retail,3.49
+L00263,2025-02-23,Referral,Customer Referral,Canada,Mid-Market,SaaS,14.19
+L00264,2025-01-29,Referral,Customer Referral,US,Enterprise,Manufacturing,19.86
+L00265,2025-06-23,Email,Product Update,Canada,Mid-Market,SaaS,28.87
+L00266,2025-01-15,LinkedIn,Ops Leaders,US,Mid-Market,Logistics,86.93
+L00267,2025-05-07,Email,Reactivation,US,SMB,Retail,23.28
+L00268,2025-06-24,Organic Search,Blog CTA,US,Enterprise,Finance,14.94
+L00269,2025-05-23,Google Ads,Brand Campaign,Canada,SMB,Logistics,87.43
+L00270,2025-03-29,Referral,Partner Referral,Canada,SMB,Healthcare,19.65
+L00271,2025-01-15,Email,Nurture Flow,US,Enterprise,Finance,9.94
+L00272,2025-01-14,Email,Nurture Flow,US,SMB,Retail,24.88
+L00273,2025-03-18,Google Ads,Search Campaign,Canada,Mid-Market,Logistics,54.39
+L00274,2025-05-08,Email,Product Update,US,SMB,Logistics,14.95
+L00275,2025-06-11,Webinar,Workflow Optimization Session,US,Mid-Market,Healthcare,43.67
+L00276,2025-04-30,Webinar,Workflow Optimization Session,Canada,SMB,Retail,67.67
+L00277,2025-03-04,Referral,Partner Referral,UK,SMB,Logistics,7.32
+L00278,2025-05-05,Organic Search,SEO Evergreen,UK,Mid-Market,SaaS,8.89
+L00279,2025-02-06,Webinar,Workflow Optimization Session,UK,Enterprise,Healthcare,30.03
+L00280,2025-04-23,Email,Reactivation,UK,Enterprise,Logistics,24.13
+L00281,2025-05-19,Google Ads,Brand Campaign,US,Mid-Market,Retail,55.2
+L00282,2025-04-05,Webinar,Finance Automation Webinar,US,SMB,Logistics,38.57
+L00283,2025-05-05,Google Ads,Competitor Terms,US,Enterprise,Manufacturing,55.01
+L00284,2025-01-14,Email,Product Update,US,Enterprise,Retail,14.67
+L00285,2025-03-27,Google Ads,Competitor Terms,US,SMB,Retail,58.44
+L00286,2025-06-29,Referral,Customer Referral,US,SMB,Retail,10.36
+L00287,2025-06-12,Organic Search,SEO Evergreen,US,SMB,Healthcare,5.51
+L00288,2025-06-06,Referral,Customer Referral,UK,Mid-Market,Manufacturing,12.99
+L00289,2025-05-15,Email,Nurture Flow,US,SMB,Logistics,8.07
+L00290,2025-01-18,LinkedIn,Finance Leaders,US,Mid-Market,Logistics,71.59
+L00291,2025-04-01,Email,Product Update,US,Enterprise,Logistics,16.44
+L00292,2025-01-03,Organic Search,Blog CTA,US,SMB,Retail,13.15
+L00293,2025-05-07,Email,Reactivation,UK,Mid-Market,SaaS,23.21
+L00294,2025-04-05,Google Ads,Search Campaign,US,Mid-Market,Retail,69.13
+L00295,2025-06-09,Organic Search,SEO Evergreen,US,Mid-Market,Retail,5.62
+L00296,2025-06-08,LinkedIn,Ops Leaders,US,Enterprise,Logistics,92.86
+L00297,2025-01-21,Organic Search,Comparison Pages,US,Mid-Market,Retail,6.25
+L00298,2025-05-31,Referral,Partner Referral,Canada,SMB,Healthcare,15.82
+L00299,2025-05-20,Google Ads,Brand Campaign,US,SMB,Healthcare,55.05
+L00300,2025-06-26,LinkedIn,ABM Decision Makers,US,Mid-Market,Manufacturing,100.53
+L00301,2025-06-01,Email,Nurture Flow,US,Enterprise,Logistics,18.27
+L00302,2025-06-18,Email,Reactivation,US,SMB,Logistics,17.79
+L00303,2025-02-01,LinkedIn,Ops Leaders,UK,Enterprise,SaaS,102.25
+L00304,2025-06-13,Email,Reactivation,Canada,SMB,Manufacturing,12.7
+L00305,2025-03-30,LinkedIn,Ops Leaders,US,SMB,Finance,124.51
+L00306,2025-02-19,Email,Reactivation,US,Enterprise,Healthcare,12.07
+L00307,2025-06-22,Organic Search,Blog CTA,US,Enterprise,SaaS,5.7
+L00308,2025-02-03,Google Ads,Search Campaign,UK,SMB,Logistics,76.93
+L00309,2025-01-04,Email,Product Update,US,SMB,Finance,27.32
+L00310,2025-01-12,Referral,Customer Referral,US,Mid-Market,SaaS,6.76
+L00311,2025-02-27,Organic Search,SEO Evergreen,US,Mid-Market,Retail,13.26
+L00312,2025-01-05,Google Ads,Search Campaign,US,SMB,Finance,86.66
+L00313,2025-03-10,Webinar,Finance Automation Webinar,US,SMB,SaaS,44.13
+L00314,2025-03-19,Referral,Partner Referral,US,SMB,Healthcare,13.72
+L00315,2025-02-28,Organic Search,Blog CTA,Canada,SMB,Retail,11.52
+L00316,2025-05-21,Google Ads,Brand Campaign,US,Mid-Market,Manufacturing,58.96
+L00317,2025-02-12,Google Ads,Brand Campaign,Canada,Enterprise,Retail,51.89
+L00318,2025-06-16,Referral,Partner Referral,US,Mid-Market,Healthcare,15.37
+L00319,2025-02-03,Google Ads,Brand Campaign,US,Mid-Market,Healthcare,61.03
+L00320,2025-03-25,LinkedIn,ABM Decision Makers,UK,SMB,Healthcare,89.33
+L00321,2025-04-02,Referral,Partner Referral,US,SMB,Retail,6.56
+L00322,2025-04-12,Email,Product Update,US,SMB,Logistics,18.9
+L00323,2025-05-05,Webinar,Workflow Optimization Session,Canada,Mid-Market,Healthcare,67.68
+L00324,2025-01-31,LinkedIn,Finance Leaders,US,Mid-Market,Logistics,113.08
+L00325,2025-01-12,Google Ads,Competitor Terms,US,Enterprise,Retail,99.18
+L00326,2025-03-25,LinkedIn,ABM Decision Makers,UK,SMB,Finance,85.11
+L00327,2025-01-01,Google Ads,Search Campaign,Canada,SMB,SaaS,96.07
+L00328,2025-02-01,Google Ads,Search Campaign,US,Mid-Market,Logistics,97.3
+L00329,2025-05-14,Organic Search,Blog CTA,US,Mid-Market,SaaS,14.83
+L00330,2025-05-05,Referral,Customer Referral,UK,Enterprise,Finance,12.78
+L00331,2025-02-23,Organic Search,Blog CTA,US,SMB,Manufacturing,5.7
+L00332,2025-06-05,Webinar,Finance Automation Webinar,US,Mid-Market,Logistics,52.85
+L00333,2025-01-28,Google Ads,Brand Campaign,Canada,SMB,Healthcare,99.86
+L00334,2025-02-06,Organic Search,Blog CTA,Canada,SMB,Manufacturing,10.32
+L00335,2025-01-04,LinkedIn,ABM Decision Makers,Canada,SMB,SaaS,62.68
+L00336,2025-03-10,Email,Reactivation,Canada,SMB,Manufacturing,9.87
+L00337,2025-06-01,Organic Search,Blog CTA,US,Mid-Market,SaaS,4.85
+L00338,2025-01-13,Email,Product Update,Canada,SMB,Retail,28.37
+L00339,2025-06-16,Referral,Partner Referral,Canada,Enterprise,Healthcare,11.07
+L00340,2025-06-04,Email,Product Update,US,Enterprise,Logistics,27.63
+L00341,2025-05-02,Referral,Customer Referral,US,Enterprise,Logistics,17.48
+L00342,2025-04-27,LinkedIn,Ops Leaders,UK,SMB,Healthcare,91.42
+L00343,2025-03-21,Organic Search,Blog CTA,US,SMB,Healthcare,13.1
+L00344,2025-05-19,Organic Search,Comparison Pages,US,SMB,Logistics,7.67
+L00345,2025-06-08,Email,Reactivation,UK,SMB,Logistics,29.4
+L00346,2025-04-17,Google Ads,Brand Campaign,US,SMB,SaaS,56.47
+L00347,2025-03-17,Organic Search,Comparison Pages,Canada,Mid-Market,SaaS,3.89
+L00348,2025-03-19,LinkedIn,Ops Leaders,Canada,Enterprise,Logistics,70.91
+L00349,2025-01-27,Referral,Customer Referral,US,SMB,Healthcare,17.89
+L00350,2025-04-05,Email,Nurture Flow,US,SMB,SaaS,22.16
+L00351,2025-02-19,Referral,Customer Referral,Canada,Enterprise,SaaS,11.34
+L00352,2025-02-07,Google Ads,Competitor Terms,Canada,SMB,SaaS,94.31
+L00353,2025-05-19,Email,Nurture Flow,US,SMB,Retail,22.94
+L00354,2025-02-11,Organic Search,Blog CTA,US,SMB,Manufacturing,3.6
+L00355,2025-06-01,Organic Search,SEO Evergreen,US,SMB,Retail,5.52
+L00356,2025-02-26,Email,Reactivation,US,Mid-Market,Retail,15.18
+L00357,2025-01-16,Google Ads,Competitor Terms,US,SMB,Finance,104.09
+L00358,2025-04-25,Email,Reactivation,US,SMB,Finance,13.99
+L00359,2025-06-17,Referral,Partner Referral,US,Enterprise,Manufacturing,12.27
+L00360,2025-04-04,Email,Reactivation,UK,Mid-Market,Finance,23.71
+L00361,2025-06-04,Google Ads,Brand Campaign,US,SMB,Retail,99.44
+L00362,2025-06-28,LinkedIn,ABM Decision Makers,US,Mid-Market,Manufacturing,74.03
+L00363,2025-03-01,Google Ads,Brand Campaign,UK,Mid-Market,Manufacturing,59
+L00364,2025-06-02,Google Ads,Brand Campaign,US,SMB,Logistics,46.25
+L00365,2025-03-13,Organic Search,SEO Evergreen,UK,Mid-Market,Finance,13.6
+L00366,2025-06-28,Organic Search,Blog CTA,Canada,Mid-Market,Healthcare,3.98
+L00367,2025-05-17,Webinar,Workflow Optimization Session,US,Mid-Market,SaaS,28.01
+L00368,2025-03-06,Email,Reactivation,US,Mid-Market,Finance,17.48
+L00369,2025-04-26,LinkedIn,ABM Decision Makers,Canada,Enterprise,Retail,87.04
+L00370,2025-06-27,Organic Search,SEO Evergreen,US,Enterprise,Manufacturing,14.78
+L00371,2025-02-12,Google Ads,Competitor Terms,US,SMB,Finance,66.76
+L00372,2025-06-10,Webinar,Finance Automation Webinar,US,Mid-Market,Retail,41.04
+L00373,2025-04-15,Referral,Customer Referral,UK,Mid-Market,Finance,18.95
+L00374,2025-01-27,LinkedIn,ABM Decision Makers,Canada,Enterprise,SaaS,68.31
+L00375,2025-03-25,LinkedIn,Ops Leaders,Canada,SMB,SaaS,119.56
+L00376,2025-02-10,Organic Search,Blog CTA,US,SMB,Logistics,11.95
+L00377,2025-05-28,Referral,Partner Referral,Canada,Mid-Market,Manufacturing,9.79
+L00378,2025-03-03,Email,Product Update,US,Mid-Market,Retail,21.73
+L00379,2025-06-18,Referral,Partner Referral,US,Enterprise,Retail,5.69
+L00380,2025-06-01,Organic Search,SEO Evergreen,US,SMB,Finance,7.97
+L00381,2025-06-29,Organic Search,SEO Evergreen,UK,SMB,Manufacturing,7.4
+L00382,2025-05-11,Referral,Customer Referral,US,SMB,Manufacturing,18.44
+L00383,2025-04-14,LinkedIn,Ops Leaders,Canada,Enterprise,Healthcare,71.87
+L00384,2025-03-03,Google Ads,Competitor Terms,US,Enterprise,Manufacturing,87.03
+L00385,2025-02-03,Email,Nurture Flow,Canada,SMB,Healthcare,17.74
+L00386,2025-05-23,Email,Nurture Flow,US,Enterprise,Manufacturing,20.2
+L00387,2025-06-09,Webinar,Finance Automation Webinar,US,SMB,SaaS,58.32
+L00388,2025-02-01,Google Ads,Search Campaign,Canada,SMB,Healthcare,70.34
+L00389,2025-05-27,Organic Search,SEO Evergreen,US,Mid-Market,Logistics,6.11
+L00390,2025-06-30,Email,Nurture Flow,US,Mid-Market,SaaS,13.96
+L00391,2025-06-12,Referral,Customer Referral,US,SMB,Logistics,15.46
+L00392,2025-02-24,Referral,Customer Referral,Canada,Enterprise,Manufacturing,9.21
+L00393,2025-06-28,Email,Reactivation,US,SMB,Healthcare,11.17
+L00394,2025-01-05,Referral,Customer Referral,US,Enterprise,Retail,12.04
+L00395,2025-05-15,Google Ads,Competitor Terms,UK,Enterprise,SaaS,48.65
+L00396,2025-06-22,Referral,Partner Referral,UK,Mid-Market,Retail,12.21
+L00397,2025-06-21,LinkedIn,ABM Decision Makers,US,SMB,Logistics,104.47
+L00398,2025-06-06,Email,Nurture Flow,US,SMB,Healthcare,20.82
+L00399,2025-03-22,Webinar,Workflow Optimization Session,Canada,SMB,Healthcare,49.38
+L00400,2025-06-21,Google Ads,Brand Campaign,US,Enterprise,Healthcare,77.16
+L00401,2025-05-02,Referral,Customer Referral,Canada,Enterprise,Manufacturing,17.53
+L00402,2025-03-24,Google Ads,Search Campaign,Canada,Mid-Market,Healthcare,74.88
+L00403,2025-04-09,Email,Reactivation,US,SMB,Logistics,23.19
+L00404,2025-02-09,Google Ads,Competitor Terms,Canada,SMB,Retail,88.12
+L00405,2025-03-03,Webinar,Workflow Optimization Session,US,SMB,SaaS,36.35
+L00406,2025-01-26,Email,Product Update,US,Enterprise,SaaS,19.5
+L00407,2025-05-25,Google Ads,Competitor Terms,US,SMB,Retail,94.22
+L00408,2025-01-11,Google Ads,Brand Campaign,US,Enterprise,Finance,97.16
+L00409,2025-06-30,Referral,Partner Referral,US,SMB,SaaS,18.76
+L00410,2025-01-16,Organic Search,Blog CTA,US,Mid-Market,Finance,4.67
+L00411,2025-02-01,Organic Search,Comparison Pages,US,Mid-Market,Retail,6.15
+L00412,2025-06-16,LinkedIn,Ops Leaders,US,SMB,Retail,126.2
+L00413,2025-01-02,Email,Product Update,US,Mid-Market,SaaS,13.52
+L00414,2025-06-01,Organic Search,Blog CTA,Canada,Mid-Market,Manufacturing,5.55
+L00415,2025-03-09,Email,Nurture Flow,Canada,Mid-Market,Healthcare,9.13
+L00416,2025-06-08,Referral,Partner Referral,US,Mid-Market,Logistics,11.44
+L00417,2025-02-13,Webinar,Finance Automation Webinar,US,Enterprise,Finance,60.34
+L00418,2025-05-09,Email,Product Update,US,Mid-Market,SaaS,27.32
+L00419,2025-03-24,Referral,Partner Referral,UK,Mid-Market,SaaS,5.59
+L00420,2025-04-30,Email,Reactivation,UK,SMB,Finance,11.42
+L00421,2025-06-19,Email,Product Update,Canada,SMB,Finance,26.63
+L00422,2025-06-04,Webinar,Finance Automation Webinar,US,SMB,Healthcare,42.99
+L00423,2025-06-26,Google Ads,Competitor Terms,US,Enterprise,Retail,63.95
+L00424,2025-01-24,Organic Search,SEO Evergreen,US,SMB,Retail,5.16
+L00425,2025-01-17,Referral,Customer Referral,UK,Mid-Market,Healthcare,5.55
+L00426,2025-06-06,Organic Search,SEO Evergreen,UK,SMB,Healthcare,13.82
+L00427,2025-04-18,LinkedIn,Finance Leaders,US,SMB,SaaS,67.65
+L00428,2025-06-08,Webinar,Finance Automation Webinar,US,SMB,Retail,39.12
+L00429,2025-03-13,LinkedIn,ABM Decision Makers,US,Mid-Market,Manufacturing,69.46
+L00430,2025-02-09,Email,Reactivation,US,Mid-Market,SaaS,16.29
+L00431,2025-02-03,Google Ads,Search Campaign,US,SMB,Finance,91.11
+L00432,2025-01-05,Referral,Customer Referral,UK,Enterprise,Manufacturing,16.11
+L00433,2025-05-23,Email,Reactivation,Canada,Mid-Market,SaaS,24.12
+L00434,2025-05-11,Referral,Partner Referral,US,Mid-Market,Finance,8.35
+L00435,2025-01-13,Webinar,Workflow Optimization Session,US,Mid-Market,SaaS,36.9
+L00436,2025-03-21,Email,Nurture Flow,US,Mid-Market,Healthcare,13.81
+L00437,2025-04-04,Webinar,Workflow Optimization Session,Canada,Enterprise,Manufacturing,50.8
+L00438,2025-02-12,Referral,Partner Referral,US,SMB,Finance,17.19
+L00439,2025-04-11,Email,Nurture Flow,US,SMB,Retail,26.63
+L00440,2025-02-09,Email,Reactivation,Canada,Mid-Market,Logistics,15.99
+L00441,2025-01-23,Webinar,Finance Automation Webinar,Canada,Enterprise,Healthcare,66.27
+L00442,2025-05-13,LinkedIn,ABM Decision Makers,US,SMB,Logistics,103.13
+L00443,2025-04-09,Webinar,Finance Automation Webinar,US,Enterprise,SaaS,56.37
+L00444,2025-02-15,Google Ads,Brand Campaign,UK,Enterprise,Retail,63.36
+L00445,2025-04-23,Webinar,Workflow Optimization Session,UK,Enterprise,Logistics,27.78
+L00446,2025-05-19,Google Ads,Brand Campaign,Canada,SMB,Logistics,67.02
+L00447,2025-05-22,Email,Nurture Flow,US,Mid-Market,Logistics,20.82
+L00448,2025-04-25,Email,Nurture Flow,US,SMB,Logistics,24.11
+L00449,2025-04-07,Email,Nurture Flow,UK,Mid-Market,Manufacturing,23.4
+L00450,2025-01-03,Webinar,Finance Automation Webinar,US,Mid-Market,Manufacturing,51.75
+L00451,2025-02-23,Google Ads,Competitor Terms,US,Enterprise,SaaS,69.68
+L00452,2025-02-18,Organic Search,SEO Evergreen,US,SMB,SaaS,14.55
+L00453,2025-06-07,Email,Nurture Flow,US,Mid-Market,Healthcare,17.41
+L00454,2025-06-11,Webinar,Finance Automation Webinar,US,Mid-Market,Finance,31.94
+L00455,2025-01-23,Google Ads,Brand Campaign,Canada,SMB,Healthcare,62.73
+L00456,2025-06-24,Organic Search,SEO Evergreen,US,SMB,Finance,5.76
+L00457,2025-01-09,Google Ads,Brand Campaign,US,Mid-Market,Finance,60.6
+L00458,2025-01-14,LinkedIn,Ops Leaders,US,SMB,Healthcare,72.95
+L00459,2025-03-23,Email,Product Update,US,Mid-Market,Healthcare,22
+L00460,2025-05-23,Google Ads,Search Campaign,Canada,SMB,Finance,90.58
+L00461,2025-06-15,Referral,Partner Referral,US,SMB,Logistics,11.44
+L00462,2025-02-25,LinkedIn,ABM Decision Makers,US,Mid-Market,SaaS,89.16
+L00463,2025-02-09,Webinar,Workflow Optimization Session,Canada,SMB,SaaS,36.9
+L00464,2025-06-19,LinkedIn,ABM Decision Makers,Canada,Mid-Market,SaaS,116.85
+L00465,2025-04-20,Email,Nurture Flow,Canada,Enterprise,Retail,20.9
+L00466,2025-01-28,Organic Search,Comparison Pages,US,SMB,Logistics,5.7
+L00467,2025-01-21,Referral,Customer Referral,US,SMB,Healthcare,17.93
+L00468,2025-01-13,Referral,Customer Referral,US,Mid-Market,Manufacturing,18.27
+L00469,2025-04-28,LinkedIn,Ops Leaders,US,Enterprise,Healthcare,109.78
+L00470,2025-03-07,Google Ads,Competitor Terms,Canada,SMB,Logistics,101.44
+L00471,2025-04-20,Email,Reactivation,Canada,Mid-Market,SaaS,8.14
+L00472,2025-05-05,Email,Nurture Flow,US,SMB,Retail,18.76
+L00473,2025-04-13,Email,Product Update,Canada,Enterprise,Manufacturing,24.72
+L00474,2025-05-04,Organic Search,SEO Evergreen,UK,SMB,Healthcare,9.84
+L00475,2025-03-10,Email,Nurture Flow,US,Mid-Market,Manufacturing,9.04
+L00476,2025-05-29,Email,Product Update,Canada,SMB,Logistics,13.32
+L00477,2025-01-24,Email,Product Update,Canada,SMB,Manufacturing,18.32
+L00478,2025-03-30,Referral,Partner Referral,Canada,SMB,Finance,8.49
+L00479,2025-02-04,LinkedIn,Ops Leaders,US,Enterprise,Manufacturing,61.9
+L00480,2025-01-23,Google Ads,Search Campaign,US,Enterprise,SaaS,71.39
+L00481,2025-03-16,Email,Product Update,US,SMB,Retail,19.99
+L00482,2025-06-05,Google Ads,Search Campaign,Canada,Enterprise,Retail,52.45
+L00483,2025-02-23,Google Ads,Competitor Terms,US,Enterprise,Logistics,78.65
+L00484,2025-02-25,LinkedIn,Ops Leaders,US,Mid-Market,Manufacturing,124.17
+L00485,2025-01-19,Email,Reactivation,US,SMB,Healthcare,9.8
+L00486,2025-05-28,Organic Search,SEO Evergreen,Canada,SMB,Manufacturing,9.41
+L00487,2025-04-14,LinkedIn,Finance Leaders,US,Mid-Market,Healthcare,61.55
+L00488,2025-06-08,Referral,Customer Referral,US,Mid-Market,Logistics,5.19
+L00489,2025-01-04,Email,Product Update,US,Enterprise,Retail,12.02
+L00490,2025-04-02,LinkedIn,Ops Leaders,US,Mid-Market,Retail,62.36
+L00491,2025-01-16,Referral,Partner Referral,US,Enterprise,Logistics,19.48
+L00492,2025-05-26,LinkedIn,Finance Leaders,US,Mid-Market,SaaS,64.25
+L00493,2025-02-27,Referral,Partner Referral,US,Mid-Market,Finance,18.38
+L00494,2025-01-29,Email,Nurture Flow,US,Enterprise,Retail,9.35
+L00495,2025-04-02,Google Ads,Search Campaign,US,SMB,Healthcare,93.48
+L00496,2025-04-04,Email,Reactivation,Canada,Mid-Market,Retail,13.15
+L00497,2025-06-18,Organic Search,SEO Evergreen,US,SMB,Retail,10.11
+L00498,2025-04-11,Email,Nurture Flow,UK,Mid-Market,Finance,16.42
+L00499,2025-02-25,Email,Product Update,Canada,Mid-Market,Manufacturing,15.23
+L00500,2025-03-11,LinkedIn,ABM Decision Makers,US,SMB,Healthcare,96.38

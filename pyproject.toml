@@ -1,0 +1,25 @@
+[project]
+name = "b2b-growth-funnel-analytics"
+version = "0.1.0"
+description = "End-to-end B2B growth funnel analytics project"
+readme = "README.md"
+
+authors = [
+    { name = "rohitkr8527", email = "rohitkr7518@gmail.com" }
+]
+
+requires-python = ">=3.12"
+
+dependencies = [
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+]
