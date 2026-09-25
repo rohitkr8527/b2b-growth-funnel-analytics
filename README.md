@@ -180,15 +180,6 @@ graph TB
     D2 --> E3
     D3 --> E4
     D5 --> E5
-    
-    style Sources fill:#e1f5ff,stroke:#0288d1,stroke-width:2px
-    style Quality fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style Warehouse fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style Analytics fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
-    style Visualization fill:#fce4ec,stroke:#c2185b,stroke-width:2px
-    
-    style B7 fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
-    style C4 fill:#ce93d8,stroke:#6a1b9a,stroke-width:2px
 ```
 
 ---
@@ -256,12 +247,6 @@ graph LR
     A -.-> E[Lost]
     B -.-> E
     C -.-> E
-    
-    style A fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
-    style B fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style D fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
-    style E fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
 - **Lead**: Initial acquired prospect
@@ -480,11 +465,6 @@ graph LR
     B -->|1:N lead_id| C[(fact_funnel_event)]
     D[Date Table<br/>Calendar] -.->|created_date| B
     D -.->|stage_date| C
-    
-    style A fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
-    style B fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style D fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
 ### Key Measures (DAX)
