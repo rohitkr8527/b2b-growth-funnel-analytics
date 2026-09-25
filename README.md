@@ -112,43 +112,43 @@ This analytics solution answers **10 critical business questions**:
 ## Architecture
 
 ```mermaid
-graph TB
-    subgraph Sources["📁 DATA SOURCES"]
-        A1[leads.csv<br/>500 records, 8 columns]
-        A2[lead_stage_events.csv<br/>1,445 records, 4 columns]
+flowchart TB
+    subgraph Sources[" DATA SOURCES "]
+        A1["leads.csv<br/>500 records, 8 columns"]
+        A2["lead_stage_events.csv<br/>1,445 records, 4 columns"]
     end
 
-    subgraph Quality["🔍 DATA QUALITY LAYER<br/>Python + Pandas"]
-        B1[Schema Validation]
-        B2[Completeness Checks]
-        B3[Business Rules]
-        B4[Funnel Logic]
-        B5[Date Integrity]
-        B6[Revenue Validation]
-        B7[✓ 27 Checks Passed]
+    subgraph Quality[" DATA QUALITY LAYER - Python + Pandas "]
+        B1["Schema Validation"]
+        B2["Completeness Checks"]
+        B3["Business Rules"]
+        B4["Funnel Logic"]
+        B5["Date Integrity"]
+        B6["Revenue Validation"]
+        B7["✓ 27 Checks Passed"]
     end
 
-    subgraph Warehouse["🗄️ DATA WAREHOUSE<br/>MySQL 8.0 - growth_analytics"]
-        C1[(dim_campaign<br/>Campaigns & Channels)]
-        C2[(fact_lead_acquisition<br/>Lead Details & Costs)]
-        C3[(fact_funnel_event<br/>Stage Progression & Revenue)]
-        C4[vw_lead_funnel_summary<br/>Analytical View]
+    subgraph Warehouse[" DATA WAREHOUSE - MySQL 8.0 growth_analytics "]
+        C1[("dim_campaign<br/>Campaigns & Channels")]
+        C2[("fact_lead_acquisition<br/>Lead Details & Costs")]
+        C3[("fact_funnel_event<br/>Stage Progression & Revenue")]
+        C4["vw_lead_funnel_summary<br/>Analytical View"]
     end
 
-    subgraph Analytics["📊 ANALYTICAL LAYER<br/>SQL Queries"]
-        D1[Funnel Analysis<br/>Conversion & Drop-off]
-        D2[Channel & Campaign<br/>CAC, ROAS, ROI]
-        D3[Segment Analysis<br/>Region, Industry, Size]
-        D4[Velocity Metrics<br/>Sales Cycle Speed]
-        D5[Cohort Analysis<br/>Monthly Trends]
+    subgraph Analytics[" ANALYTICAL LAYER - SQL Queries "]
+        D1["Funnel Analysis<br/>Conversion & Drop-off"]
+        D2["Channel & Campaign<br/>CAC, ROAS, ROI"]
+        D3["Segment Analysis<br/>Region, Industry, Size"]
+        D4["Velocity Metrics<br/>Sales Cycle Speed"]
+        D5["Cohort Analysis<br/>Monthly Trends"]
     end
 
-    subgraph Visualization["📈 VISUALIZATION LAYER<br/>Power BI Desktop"]
-        E1[Executive Overview<br/>KPIs & High-Level Metrics]
-        E2[Funnel & Velocity<br/>Stage Analysis]
-        E3[Channel & Campaign<br/>Marketing Performance]
-        E4[Segment Analysis<br/>Firmographic Breakdown]
-        E5[Trends & Cohorts<br/>Time Series]
+    subgraph Visualization[" VISUALIZATION LAYER - Power BI Desktop "]
+        E1["Executive Overview<br/>KPIs & High-Level Metrics"]
+        E2["Funnel & Velocity<br/>Stage Analysis"]
+        E3["Channel & Campaign<br/>Marketing Performance"]
+        E4["Segment Analysis<br/>Firmographic Breakdown"]
+        E5["Trends & Cohorts<br/>Time Series"]
     end
 
     A1 --> B1
