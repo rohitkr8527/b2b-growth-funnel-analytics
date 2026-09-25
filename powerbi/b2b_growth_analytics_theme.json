@@ -1,0 +1,16 @@
+{
+  "name": "B2B Growth Analytics",
+  "dataColors": [
+    "#2563EB",
+    "#0F766E",
+    "#F59E0B",
+    "#10B981",
+    "#DC2626",
+    "#7C3AED",
+    "#0891B2",
+    "#64748B"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#1F2937",
+  "tableAccent": "#2563EB"
+}
